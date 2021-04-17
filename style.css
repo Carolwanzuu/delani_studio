@@ -1,0 +1,21 @@
+.head {
+    background: url("./images/backgrounds/h_img.jpg");
+    height: 30%;
+}
+
+.services {
+    background: url("./images/backgrounds/s_image.jpg");
+    height: 50%;
+
+}
+/* 
+h2 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 20%;
+}
+
+.contact {
+    height: 5%;
+}  */
