@@ -25,7 +25,8 @@ HTML
 CSS
 Git
 Javascript
-
+Bootstrap
+jQuery
 
 ### Live Site
 View [live]()
