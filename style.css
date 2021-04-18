@@ -52,10 +52,14 @@
     color: white;
 
 }
+
 footer{
     background: url("./images/backgrounds/c_image.jpg");
     height: 60vh;
     width: 100%;
+}
+#email {
+    margin-left: 20%;
 }
 /* 
 h2 {
