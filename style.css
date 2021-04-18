@@ -38,8 +38,11 @@
     float: left;
     width: 25%;
 }
-.portfolio img .three{
+.three{
     float: left;
+    width: 20%;
+}
+.five{
     width: 200px;
 }
 .services {
