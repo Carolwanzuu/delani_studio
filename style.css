@@ -57,9 +57,13 @@ footer{
     background: url("./images/backgrounds/c_image.jpg");
     height: 60vh;
     width: 100%;
+    padding-top: 5%;
 }
 #email {
     margin-left: 20%;
+}
+form{
+    margin: 10%;
 }
 /* 
 h2 {
