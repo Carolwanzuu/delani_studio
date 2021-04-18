@@ -43,7 +43,7 @@
     width: 20%;
 }
 .five{
-    width: 200px;
+    width: 20%;
 }
 .services {
     background: url("./images/backgrounds/s_image.jpg");
@@ -77,6 +77,9 @@ form{
 .year{
     margin-left: 53%;
 }
+/* .design{
+    display: none;
+} */
 /* 
 h2 {
     text-align: center;
