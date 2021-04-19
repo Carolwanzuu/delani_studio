@@ -41,8 +41,8 @@ $(document).ready(function() {
                      });
                 });
              $(document).ready(function() {
-                    $(".imgport").hover(function() {
-                        $(".box").show();
+                    $("#imgport").hover(function() {
+                        $(".text").show();
                         
                          });
                     });
