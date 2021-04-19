@@ -6,10 +6,19 @@
 //   });
 $(document).ready(function() {
     $("#design").click(function() {
-        $(".design1").hide();
-        $(".design1").show();
-        // $(".design1").toggle();
-        
-        
+        $(".design1").toggle();
+         });
     });
-});
+
+    $(document).ready(function() {
+        $("#devop").click(function() {
+            $(".devop1").toggle();
+             });
+        });
+        $(document).ready(function() {
+            $("#product").click(function() {
+                $(".product1").toggle();
+                 });
+            });
+        
+    
