@@ -42,7 +42,7 @@ $(document).ready(function() {
                 });
              $(document).ready(function() {
                     $(".imgport").hover(function() {
-                        $(".imgport").toggle();
+                        $(".box").show();
                         
                          });
                     });
