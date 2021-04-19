@@ -47,7 +47,7 @@ $(document).ready(function() {
                          });
                     });
 
-            
+                    mc-embedded-subscribe
             // p {
             //     cursor: pointer;
             //     color: #0088cc;
