@@ -85,13 +85,16 @@ form{
  .design1 {
     display: none;
 } 
-.box {
+/* .box {
     bottom: 20px;
     right: 20px;
-    /* color: white; */
+    color: white; 
     padding-left: 2px;
     padding-right: 2px;
     border: 2px solid red;
+} */
+.text{
+    display:none;
 }
 
 .port {
