@@ -87,8 +87,8 @@ form{
 .port {
     margin: auto;
     padding: 1%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 20%;
 }
 .one{
     margin-left: 50%;
@@ -98,6 +98,12 @@ form{
 }
 .product1 {
     display: none;
+}
+.what{
+    margin-left: 10%;
+}
+.imgport:hover{
+    background-color: white;
 }
 /* 
 h2 {
