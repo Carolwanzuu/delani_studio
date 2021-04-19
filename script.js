@@ -48,6 +48,11 @@ $(document).ready(function() {
                     });
 
                     mc-embedded-subscribe
+            $(document).ready(function() {
+                $("#mc-embeded-subscribe").click(function(){
+                    alert("Thank you for the message and for reaching out to us.")
+                }
+            }
             // p {
             //     cursor: pointer;
             //     color: #0088cc;
